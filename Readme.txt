@@ -6,3 +6,6 @@ https://personal.ntu.edu.sg/ehchua/programming/sql/SampleDatabases.html
 
 Pour d'autres sur la base , prière de regarder l'url suivante : 
 https://dev.mysql.com/doc/sakila/en/
+
+
+Données  Covid 19  : https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
